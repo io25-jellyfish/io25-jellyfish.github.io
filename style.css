@@ -1,0 +1,10 @@
+*{
+    font-family: 'NanumGothicOTF';
+    font-size: 15px;
+    text-align: center;
+    line-height: 150%;
+}
+
+hr {
+    width: 80%;
+}
